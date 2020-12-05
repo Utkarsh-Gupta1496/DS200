@@ -8,14 +8,10 @@
  4. Select the optimum threshold to classify the emotion and report the classification accuracy on the test data.
  (K detetrmines the seperablity of Data points in 1 dimmension)
  
- **Bar Plot (Illustration)**
+ **Illustration of various plots**
  
- ![](barplot.PNG)
+![](barplot.PNG)
 
+![](boxplot.PNG)
 
-**Box Plot (Illustration)**
- ![](boxplot.PNG)
-
-
-**Scatter Plot (Illustration)**
- ![](scatterplot.PNG)
+![](scatterplot.PNG)
