@@ -17,4 +17,4 @@ This Repository demonstrates how LDA can be used to build a classifier. It has i
  **Scatter Plot (Illustration)**
  ![](scatterplot.PNG)
  **Box Plot (Illustration)**
- ![](scatterplot.PNG)
+ ![](box.PNG)
