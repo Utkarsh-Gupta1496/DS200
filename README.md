@@ -9,8 +9,13 @@
  (K detetrmines the seperablity of Data points in 1 dimmension)
  
  **Bar Plot (Illustration)**
+ 
  ![](barplot.PNG)
- **Box Plot (Illustration)**
+
+
+**Box Plot (Illustration)**
  ![](boxplot.PNG)
- **Scatter Plot (Illustration)**
+
+
+**Scatter Plot (Illustration)**
  ![](scatterplot.PNG)
