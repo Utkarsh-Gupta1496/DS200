@@ -15,10 +15,7 @@
 ![](scatterplot.PNG)
 
 
-**Codes**
-
-
-"""
+**Codes**<br/>
 Module4_Utkarsh_Gupta.ipynb is the jupiter notebook which can be used to generate results.
 
-"""
+
