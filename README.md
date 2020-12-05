@@ -1,8 +1,4 @@
-# DS200
-
-This Repository demonstrates how LDA can be used to build a classifier. It has implementation of LDA classifier from scratch in numpy.
-
-**LDA** basically builds a classifier by mininmizing intra-class variance and maximizing inter-class variance between datapoints.
+# DS200 - Module 4
 
 **Task to Demonstrate LDA is described as follows:**
  1. 15 subject faces with happy/sad emotion are provided in the **data** folder. Each image is of 100x100 matrix.
@@ -14,7 +10,7 @@ This Repository demonstrates how LDA can be used to build a classifier. It has i
  
  **Bar Plot (Illustration)**
  ![](barplot.PNG)
+ **Box Plot (Illustration)**
+ ![](boxplot.PNG)
  **Scatter Plot (Illustration)**
  ![](scatterplot.PNG)
- **Box Plot (Illustration)**
- ![](box.PNG)
